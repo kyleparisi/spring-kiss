@@ -12,4 +12,5 @@ brew install maven
 
 ```bash
 mvn spring-boot:run
+curl localhost:8080/hello/world
 ```
